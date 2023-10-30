@@ -1,1 +1,1 @@
-## Project live at - https://github.com/asinarpit/react-gif-generator-app
+## Project live at - https://asinarpit.github.io/react-weather-app/
