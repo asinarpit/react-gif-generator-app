@@ -8,4 +8,6 @@ This project is a GIF generator app built using React. It utilizes a custom hook
 - Utilizes a custom React hook to manage data fetching from the Giphy API.
 - Styled using the Tailwind CSS framework for a modern and responsive design.
 
+## Live Demo
 
+You can access the live demo here - https://react-gif-generator.netlify.app/
